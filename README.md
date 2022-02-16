@@ -35,4 +35,7 @@ esx_mechanicjob (Optional)
 3 -  Modify the config.lua file 
 ```
 
+Preview: https://streamable.com/oldzuf
+
+
 if you need help you can send me a message to discord Gianluigi#2245
